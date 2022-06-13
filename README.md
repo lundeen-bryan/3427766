@@ -32,7 +32,10 @@ verifying, troubleshooting etc.
 
 ## Sunday 12 June
 
-- `16:27` //_Good morning_
+| Time span          | Task                    |
+| -----------------: | ----------------------- |
+|          `02:00`   | build_report_automation |
+|        **`02:00`** | **Total**               |
 
 
 ---
