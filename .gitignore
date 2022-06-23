@@ -1,1 +1,4 @@
-/Excel Magic 2 - Building Your Own Report Generating Bot.txt
+/node_modules
+logs
+/xvba_excel_backup
+.gitignore
